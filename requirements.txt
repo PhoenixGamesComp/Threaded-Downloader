@@ -1,0 +1,13 @@
+autopep8==1.5.6
+certifi==2020.12.5
+chardet==4.0.0
+decorator==4.4.2
+fallocate==1.6.4
+idna==2.10
+lxml==4.6.3
+pycodestyle==2.7.0
+requests==2.25.1
+six==1.15.0
+toml==0.10.2
+urllib3==1.26.4
+validators==0.18.2
